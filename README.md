@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaysue&show_icons=true&theme=radical)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaysue&show_icons=true&theme=dark)
 <!--
 **VijaySue/VijaySue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
